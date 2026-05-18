@@ -7,17 +7,17 @@ This repository is a starter marketplace structure for Copilot resources:
 - hooks
 
 No specific skills, agents, or hooks are included yet.  
-Only the base folder layout and empty manifests are provided.
+Only the base folder layout and empty JSON catalogs are provided.
 
 ## Repository structure
 
 ```text
 .
-├── marketplace.manifest.json
+├── marketplace.json
 ├── skills/
-│   └── manifest.json
+│   └── skills.json
 ├── agents/
-│   └── manifest.json
+│   └── agents.json
 └── hooks/
-    └── manifest.json
+    └── hooks.json
 ```
