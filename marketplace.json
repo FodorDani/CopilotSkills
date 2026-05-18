@@ -1,0 +1,10 @@
+{
+  "name": "copilot-marketplace",
+  "version": "0.1.0",
+  "description": "Marketplace index for Copilot skills, agents, and hooks.",
+  "resources": {
+    "skills": "skills/skills.json",
+    "agents": "agents/agents.json",
+    "hooks": "hooks/hooks.json"
+  }
+}
